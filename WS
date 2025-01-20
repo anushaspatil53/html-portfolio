@@ -1,0 +1,7 @@
+20-1-25
+DOM-
+object  
+method - dependent on the object ex:windows.alert(), windows.close()
+function - not dependent on the object
+
+javascript - not for connecting database, for files, for password
